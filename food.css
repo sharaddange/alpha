@@ -1,0 +1,29 @@
+body{
+    margin: opx;
+    padding: opx;
+    background-image: ;
+     background-color: green; 
+
+}
+#food{
+    display:flex ;
+    align-items: center;
+    justify-content:space-between;
+
+    /* color: white; */
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+    
+    
+}
+ #right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding-right: 20px;
+ }
+   
+ #left{
+    font-size:15px ;
+ }   
